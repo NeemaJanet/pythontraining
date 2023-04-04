@@ -1,5 +1,4 @@
 def volume(l,w,h):
-    area=2*(l*w+w*h+h*l)
     volume=l*w*h
     return (volume)
 
